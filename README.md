@@ -16,7 +16,7 @@ The prototype focuses on core workflow operations such as:
 
 The system was developed using Python, PyQt6, and SQLite following a modular Model–View–Controller (MVC) inspired architecture.
 
----
+-
 
 ## Current Prototype Features
 
@@ -47,7 +47,7 @@ The system was developed using Python, PyQt6, and SQLite following a modular Mod
 * Expanded UI refinement
 * Role-based permissions
 
----
+-
 
 ## Technologies Used
 
@@ -57,7 +57,7 @@ The system was developed using Python, PyQt6, and SQLite following a modular Mod
 * Qt Designer
 * Canva (UI mockups)
 
----
+-
 
 ## Project Structure
 
@@ -76,7 +76,7 @@ drycleaning_app/
 * `model/` contains planned data model structures
 * `view/` contains PyQt6 interface components
 
----
+-
 
 ## Running the Application
 
@@ -96,7 +96,7 @@ Run the application from the project root directory:
 python main.py
 ```
 
----
+-
 
 ## Thesis Context
 
@@ -108,7 +108,7 @@ submitted to the Department of Mathematics and Computer Science at Purchase Coll
 
 The project should be understood as a functional prototype and research-focused implementation rather than a finished commercial product.
 
----
+-
 
 ## Author
 
